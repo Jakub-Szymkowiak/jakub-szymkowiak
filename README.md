@@ -16,7 +16,7 @@ You're welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubs
 - ``Scala``
 - ``LaTeX``
 
-🧪 Recently, I've been experimenting with [*Tableau*](https://www.tableau.com). 
+🧪 Recently, I've been experimenting with [*Tableau*](https://www.tableau.com) and ``Dash``. 
 
 📖 As of right now, I'm reading [Learning PySpark](https://www.amazon.com/Learning-PySpark-Tomasz-Drabas/dp/1786463709).
 
