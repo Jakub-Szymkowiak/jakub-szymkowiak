@@ -1,3 +1,2 @@
 theme: jekyll-theme-slate
-name: My University Classes
-title: null
+title-heading: false
