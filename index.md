@@ -1,10 +1,10 @@
-This is a curated list of classes I've taken during my studies at the Univeristy of Warsaw and Adam Mickiewicz University. 
-
+This is a curated list of classes I've taken during my studies at the Univeristy of Warsaw and classes I'm taking right now at Adam Mickiewicz University. 
 The list includes only classes that had to do with maths and data analysis (so, for example, foreign language classes are not listed here).
 
 ## University of Warsaw
 
-Here, you can click on the name of the class and read the description of its content (provided by the university). 
+Here, you can click on the name of the class and read the description of its content (provided by the university).
+If you want to, you can switch the website's language to English by click on the flag in the upper right corner.
 
 ### Bachelor in Mathematics (2018-2021)
 
