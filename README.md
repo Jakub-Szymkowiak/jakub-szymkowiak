@@ -9,18 +9,12 @@ You're welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubs
 
 🛠️  Tools I work with include 
 
-- ``Python`` and its libraries: ``pandas``, ``numpy``, ``scikit-learn``, ``seaborn``
-- ``tensorflow`` and ``keras``
-- ``R``, *RStudio*, the ``mlr3`` library
+- ``Python`` and its libraries: ``pandas``, ``numpy``, ``scikit-learn``, ``seaborn``; ``tensorflow`` and ``keras``
+- ``R``, *RStudio*, the ``mlr3`` libraries and various tools used in statistics
 - ``PostgreSQL``
 - ``Scala``
-- ``LaTeX``
 
-🧪 Recently, I've been experimenting with [*Tableau*](https://www.tableau.com) and ``Dash``. 
-
-📖 As of right now, I'm reading [Learning PySpark](https://www.amazon.com/Learning-PySpark-Tomasz-Drabas/dp/1786463709).
-
-📚 Here are some books I've learned from
+📚 Here are some books I've read recently
 
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 - [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
