@@ -11,3 +11,5 @@ I am a graduate student in both Mathematics and Data Analysis & Data Processing 
 - Databases: ``PostgreSQL``
 - Functional programming: ``Scala``, ``Clojure``
 - Misc: I'm familiar with ``React``, ``Node.js``, ``C``, ``Java``
+
+You may also want to take a look at the [list of university classes I've taken](https://jakub-szymkowiak.github.io/education/).
