@@ -1,8 +1,13 @@
 ### Hi, my name is Jakub Szymkowiak
 
-I've graduated from the University of Warsaw in 2021, I hold a bachelor's degree in Mathematics.
-This fall, I've started master's programs in both Data Analysis & Data Processing and Mathematics at the Adam Mickiewicz University, Poznań.
+I am a graduate student in both Mathematics and Data Analysis & Data Processing at the Adam Mickiewicz University, Poznań. Before that, I studied at the University of Warsaw, where I obtained my bachelor's degree in Mathematics.
 
-You're welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubszymkowiak/).
+📬 You can contact me by e-mail: ``jakubszymkowiak@icloud.com``. Write to me in English, French, or Polish. You're also welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubszymkowiak/).
 
-📬 You can contact me by e-mail: ``jakubszymkowiak@icloud.com``. Write to me in English, French, or Polish. 
+🛠️ My technical skills include:
+
+- Data Science: data analysis and visualization in ``Python`` (``pandas``, ``sklearn``, ``numpy``, ``seaborn``) and ``R`` (``ggplot``, ``mlr3``)
+- Machine Learning: basics of ``tensorflow`` and ``keras``
+- Databases: ``PostgreSQL``
+- Functional programming: ``Scala``, ``Clojure``
+- Misc: I'm familiar with ``React``, ``Node.js``, ``C``, ``Java``
