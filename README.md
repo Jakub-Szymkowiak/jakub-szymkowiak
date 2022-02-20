@@ -1,4 +1,4 @@
-### Hi, my name is Jakub Szymkowiak
+### Hi, my name is Jakub Szymkowiak 🙋‍♂️
 
 I am a graduate student in both Mathematics and Data Analysis & Data Processing at the Adam Mickiewicz University, Poznań. Before that, I studied at the University of Warsaw, where I obtained my bachelor's degree in Mathematics. 
 
