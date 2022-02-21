@@ -9,8 +9,8 @@ You're welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubs
 - Data Science: data analysis and visualization in ``Python`` (``pandas``, ``sklearn``, ``numpy``, ``seaborn``) and ``R`` (``ggplot``, ``mlr3``)
 - Machine Learning: basics of ``tensorflow`` and ``keras``
 - Databases: ``PostgreSQL``
-- Functional programming: ``Scala``, ``Clojure``
-- Misc: I'm familiar with ``React``, ``Node.js``, ``C``, ``Java``
+- Functional programming: I'm familiar with ``Scala``, ``Clojure``
+- Misc: I have some familiarity with ``React``, ``Node.js``, ``C``, ``Java``
 
 🎓 You may also want to take a look at the [list of university classes I've taken](https://jakub-szymkowiak.github.io/education/).
 
