@@ -6,8 +6,8 @@ You're welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubs
 
 🛠️ My technical skills include:
 
-- Data Science: data analysis and visualization in ``Python`` (``pandas``, ``sklearn``, ``numpy``, ``seaborn``) and ``R`` (``ggplot``, ``mlr3``)
-- Machine Learning: basics of ``tensorflow`` and ``keras``
+- Data Science: data analysis and visualization in ``Python`` (``pandas``, ``numpy``, ``seaborn``) and ``R`` (``ggplot``, ``mlr3``)
+- Machine Learning: ``scikit-learn``, basics of ``tensorflow`` and ``keras``
 - Databases: ``PostgreSQL``
 - Functional programming: I'm familiar with ``Scala``, ``Clojure``
 - Misc: I have some familiarity with ``React``, ``Node.js``, ``C``, ``Java``
