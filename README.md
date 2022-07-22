@@ -12,6 +12,4 @@ You're welcome to visit [my LinkedIn profile](https://www.linkedin.com/in/jakubs
 - Functional programming: I'm familiar with basics of ``Scala``, ``Clojure``
 - Misc: I have some familiarity with ``React``, ``Node.js``, ``C``, ``Java``
 
-🎓 You may also want to take a look at the [list of university classes I've taken](https://jakub-szymkowiak.github.io/education/).
-
 📬 You can contact me by e-mail: ``jakubszymkowiak@icloud.com``. Write to me in English, French, or Polish. 
